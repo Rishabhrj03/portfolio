@@ -52,12 +52,9 @@ function About() {
                 knowledge with my collegues and with friends that help me to
                 grow.
               </p>
-              <div className='about__button d__flex align__items__center'>
+              <div className='about__button d__flex align__items__center justify__content__center__sm'>
                 <a href='#'>
                   <button className='about btn pointer'>Download Cv</button>
-                </a>
-                <a href='#'>
-                  <button className='about btn pointer'>Hire Me</button>
                 </a>
               </div>
             </div>

@@ -57,4 +57,7 @@ a.bottom__to__top.active {
     font-size: 13px;
     transition: 0.4s ease;
   }
+  .justify__content__center__sm {
+    justify-content: center;
+  }
 }

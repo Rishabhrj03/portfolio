@@ -17,7 +17,7 @@ function Footer() {
         src={footerImg}
         alt=''
         className='footer__img pointer'
-        style={{ width: '70px' }}
+        style={{ width: '70px', height: '3rem' }}
       />
       <div className='mr-3 d__flex'>
         <a
@@ -49,7 +49,7 @@ function Footer() {
         </a>
         <a href={'https://www.hackerrank.com/Rishabh2000'} target='_blank'>
           <i
-            className='fab fa-hackerrank mx-1'
+            className='fab fa-hackerrank mx-1 mx-sm-0'
             style={{ fontSize: '30px', color: 'green' }}
           ></i>
         </a>

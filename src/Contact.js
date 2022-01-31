@@ -85,7 +85,7 @@ function Contact() {
           <img
             src={contactImg}
             alt=''
-            className='contact__img'
+            className='contact__img d-sm-none'
             style={{ height: '550px' }}
           />
         </div>
